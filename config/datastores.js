@@ -55,7 +55,7 @@ module.exports.datastores = {
     // host: 'localhost',
     // database: 'db_books'
     adapter: 'sails-mysql',
-    url: 'mysql://root:anugrah17@localhost:3306/sails_rest_api1',
+    url: 'mysql://root:password@localhost:3306/sails_rest_api1',
 
   },
 
